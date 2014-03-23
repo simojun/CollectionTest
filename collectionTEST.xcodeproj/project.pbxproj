@@ -21,6 +21,8 @@
 		DE7DBFA418DE975000929928 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7DBF8618DE975000929928 /* UIKit.framework */; };
 		DE7DBFAC18DE975000929928 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DE7DBFAA18DE975000929928 /* InfoPlist.strings */; };
 		DE7DBFAE18DE975000929928 /* collectionTESTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DE7DBFAD18DE975000929928 /* collectionTESTTests.m */; };
+		DE7DBFB918DE9B9C00929928 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = DE7DBFB718DE9B9C00929928 /* 1.png */; };
+		DE7DBFBA18DE9B9C00929928 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = DE7DBFB818DE9B9C00929928 /* 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		DE7DBFA918DE975000929928 /* collectionTESTTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "collectionTESTTests-Info.plist"; sourceTree = "<group>"; };
 		DE7DBFAB18DE975000929928 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DE7DBFAD18DE975000929928 /* collectionTESTTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = collectionTESTTests.m; sourceTree = "<group>"; };
+		DE7DBFB718DE9B9C00929928 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		DE7DBFB818DE9B9C00929928 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +122,8 @@
 				DE7DBF9718DE975000929928 /* ViewController.h */,
 				DE7DBF9818DE975000929928 /* ViewController.m */,
 				DE7DBF9A18DE975000929928 /* Images.xcassets */,
+				DE7DBFB718DE9B9C00929928 /* 1.png */,
+				DE7DBFB818DE9B9C00929928 /* 2.png */,
 				DE7DBF8918DE975000929928 /* Supporting Files */,
 			);
 			path = collectionTEST;
@@ -229,6 +235,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE7DBF9B18DE975000929928 /* Images.xcassets in Resources */,
+				DE7DBFB918DE9B9C00929928 /* 1.png in Resources */,
+				DE7DBFBA18DE9B9C00929928 /* 2.png in Resources */,
 				DE7DBF8D18DE975000929928 /* InfoPlist.strings in Resources */,
 				DE7DBF9618DE975000929928 /* Main.storyboard in Resources */,
 			);
